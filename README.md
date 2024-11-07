@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=a0eef3&height=120&text=Hi,%20I'm%20Yena%20:D&animation=fadeIn&fontColor=3560b6&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:97f7da,100:84f3f5&height=120&text=Developer%20yena's%20Github&animation=&fontColor=1486ff&fontSize=50" />
     </div>
+
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
